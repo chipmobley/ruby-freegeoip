@@ -1,0 +1,1 @@
+A ruby script to get geographic location information about an IP address.  Uses the http://freegeoip.net/ API.
